@@ -64,3 +64,36 @@ The project demonstrates handling missing CSV files and invalid numeric values.
 Limitations
 
 This is a learning project demonstrating practical Python data processing. Additional automated tests and configurable file paths may be useful before production use.
+
+---
+
+# GitHub API Rate Limit Inspector
+
+## Overview
+A Python project to inspect GitHub API rate limits,
+response headers, reset timestamps, and GitHub usernames.
+
+## Features
+- API requests using Python Requests
+- HTTP status code inspection
+- Rate limit monitoring
+- Reset timestamp conversion to IST
+- JSON response handling
+- Valid and invalid username checking
+- Basic network error handling
+
+## Technologies
+- Python
+- Requests
+- GitHub REST API
+- Datetime
+- Google Colab
+
+## Learning Outcomes
+Practiced API integration, HTTP response headers,
+rate limits, timestamp conversion, and error handling.
+
+## Future Improvements
+- Secure API authentication
+- JSON report export
+- Automated API testing
